@@ -2,8 +2,6 @@
 //  AppDelegate.swift
 //  Craiglist Dark Theme
 //
-//  Created by Alex Onghena on 7/2/20.
-//  Copyright © 2020 Alex Onghena. All rights reserved.
 //
 
 import Cocoa

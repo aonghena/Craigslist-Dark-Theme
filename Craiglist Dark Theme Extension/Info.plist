@@ -28,13 +28,13 @@
 		<string>com.apple.Safari.extension</string>
 		<key>NSExtensionPrincipalClass</key>
 		<string>$(PRODUCT_MODULE_NAME).SafariExtensionHandler</string>
-		<key>SFSafariContentScript</key>
-		<array>
-			<dict>
-				<key>Script</key>
-				<string>script.js</string>
-			</dict>
-		</array>
+		<key>SFSafariStyleSheet</key>
+        <array>
+            <dict>
+                <key>Style Sheet</key>
+                <string>style.css</string>
+            </dict>
+        </array>
 		<key>SFSafariToolbarItem</key>
 		<dict>
 			<key>Action</key>
@@ -50,15 +50,15 @@
 		<dict>
 			<key>Allowed Domains</key>
 			<array>
-				<string>*.webkit.org</string>
+				<string>*.craigslist.org</string>
 			</array>
 			<key>Level</key>
 			<string>Some</string>
 		</dict>
 	</dict>
 	<key>NSHumanReadableCopyright</key>
-	<string>Copyright © 2020 Alex Onghena. All rights reserved.</string>
+	<string></string>
 	<key>NSHumanReadableDescription</key>
-	<string>This is a Safari Extension. You should tell us what your extension does here.</string>
+	<string>Dark Theme for Craiglist.</string>
 </dict>
 </plist>

@@ -17,8 +17,7 @@
 		1C45D48124AED4B500761CB9 /* SafariExtensionHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C45D48024AED4B500761CB9 /* SafariExtensionHandler.swift */; };
 		1C45D48324AED4B500761CB9 /* SafariExtensionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C45D48224AED4B500761CB9 /* SafariExtensionViewController.swift */; };
 		1C45D48624AED4B500761CB9 /* SafariExtensionViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1C45D48424AED4B500761CB9 /* SafariExtensionViewController.xib */; };
-		1C45D48924AED4B500761CB9 /* script.js in Resources */ = {isa = PBXBuildFile; fileRef = 1C45D48824AED4B500761CB9 /* script.js */; };
-		1C45D48B24AED4B500761CB9 /* ToolbarItemIcon.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 1C45D48A24AED4B500761CB9 /* ToolbarItemIcon.pdf */; };
+		1C45D49724AED52D00761CB9 /* style.css in Resources */ = {isa = PBXBuildFile; fileRef = 1C45D49624AED52D00761CB9 /* style.css */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -59,9 +58,8 @@
 		1C45D48224AED4B500761CB9 /* SafariExtensionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafariExtensionViewController.swift; sourceTree = "<group>"; };
 		1C45D48524AED4B500761CB9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/SafariExtensionViewController.xib; sourceTree = "<group>"; };
 		1C45D48724AED4B500761CB9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		1C45D48824AED4B500761CB9 /* script.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = script.js; sourceTree = "<group>"; };
-		1C45D48A24AED4B500761CB9 /* ToolbarItemIcon.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = ToolbarItemIcon.pdf; sourceTree = "<group>"; };
 		1C45D48C24AED4B500761CB9 /* Craiglist_Dark_Theme_Extension.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Craiglist_Dark_Theme_Extension.entitlements; sourceTree = "<group>"; };
+		1C45D49624AED52D00761CB9 /* style.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = style.css; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -130,9 +128,8 @@
 				1C45D48224AED4B500761CB9 /* SafariExtensionViewController.swift */,
 				1C45D48424AED4B500761CB9 /* SafariExtensionViewController.xib */,
 				1C45D48724AED4B500761CB9 /* Info.plist */,
-				1C45D48824AED4B500761CB9 /* script.js */,
-				1C45D48A24AED4B500761CB9 /* ToolbarItemIcon.pdf */,
 				1C45D48C24AED4B500761CB9 /* Craiglist_Dark_Theme_Extension.entitlements */,
+				1C45D49624AED52D00761CB9 /* style.css */,
 			);
 			path = "Craiglist Dark Theme Extension";
 			sourceTree = "<group>";
@@ -228,9 +225,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1C45D48B24AED4B500761CB9 /* ToolbarItemIcon.pdf in Resources */,
 				1C45D48624AED4B500761CB9 /* SafariExtensionViewController.xib in Resources */,
-				1C45D48924AED4B500761CB9 /* script.js in Resources */,
+				1C45D49724AED52D00761CB9 /* style.css in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

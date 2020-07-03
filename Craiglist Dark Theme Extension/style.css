@@ -1,0 +1,31 @@
+
+body, .dropdown a, .dropdown button, select{
+    background: black !important;
+    color: white !important;
+}
+
+.flatinput, .tsb, .searchbtn, .global-header{
+    background: black !important;
+    border: none;
+}
+
+#mapcontainer .date:after, .result-price, #result-hood, #query, .header-logo {
+    color: white !important;
+}
+
+a, .homepage #rightbar h5, .linklike {
+    color: aqua !important;
+}
+
+.alert-info {
+    background-color: black !important;
+    border-color: black !importantß;
+}
+.grid .result-row{
+    border: none !important;
+    -webkit-box-shadow: 0 0 7px gray;
+}
+
+.querybox, .form-tab, .reply-flap, .slider-info, .hasPic, .searchgroup, .to-banish-page, .buttongroup, #attrgroup span, .posting .attrgroup span, .regular-area, td, tr , .header-logo, footer, .grid .result-image .result-price, .search-options-container, .search-options, .grid .result-image .result-price, .dropdown a, .dropdown button, .homepage #rightbar, #leftbar, .homepage .col ul li a, .homepage #ppp ul, .homepage #hhh ul, .homepage #jjj ul, .homepage .col ul, .homepage .ban a, .homepage #center .ban, .homepage #postlks #post, .ban .bantext, .homepage #rightbar h5.active, .homepage #rightbar h5, .highlight, .error, .json-form>fieldset.json-form-group-container, body.post .json-form .json-form-group.contact-form, #loginWidget, .json-form .json-form-item.phone-warning, #ui-id-1, .paginator .pagenum {
+    background: black !important;
+}
