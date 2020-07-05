@@ -3,7 +3,7 @@ A simple dark theme extension for Craigslist (Safari and Firefox).
 *Not affiliated with craigslist.*  
  
 
-Will added Chrome support later...
+Will add Chrome support later...
 
 ##### Screenshots:
 ![example](https://i.imgur.com/boDqq0N.png)
