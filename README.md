@@ -6,6 +6,5 @@ A simple dark theme extension for Craigslist.
 Extensions for Safari, Firefox, and Chrome.  
 
 ##### Screenshots:
-![example](https://i.imgur.com/boDqq0N.png)
-![example](https://i.imgur.com/qrUZoni.png)
-![example](https://i.imgur.com/TjPVriS.png)
+![example](https://i.imgur.com/GLlXeXg.png)
+![example](https://i.imgur.com/LER7xVu.png))
