@@ -1,7 +1,7 @@
-# Craiglist-Dark-Theme
-A simple dark theme extension for Craiglist
-  
-  
+# Craigslist-Dark-Theme
+A simple dark theme extension for Craigslist.  
+Not affiliated with craigslist  
+    
 Extension currently only works on safari. Chrome and Firefox support will be added later.  
   
   

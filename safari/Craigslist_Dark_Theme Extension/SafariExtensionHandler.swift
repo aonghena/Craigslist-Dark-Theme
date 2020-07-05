@@ -1,6 +1,6 @@
 //
 //  SafariExtensionHandler.swift
-//  Craiglist Dark Theme Extension
+//  Craigslist Dark Theme Extension
 //
 //
 

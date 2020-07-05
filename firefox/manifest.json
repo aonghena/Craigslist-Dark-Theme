@@ -1,0 +1,20 @@
+{
+
+    "manifest_version": 2,
+    "name": "Craigslist Dark Theme",
+    "version": "1.0",
+  
+    "description": "Dark theme for Craigslist",
+  
+    "icons": {
+      "48": "icons/border-48.png"
+    },
+  
+    "content_scripts": [
+      {
+        "matches": ["*://*.craigslist.org/*"],
+        "css": ["style.css"]
+      }
+    ]
+  
+  }

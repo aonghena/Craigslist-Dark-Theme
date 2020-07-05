@@ -12,7 +12,7 @@
 		1C45D46E24AED4B400761CB9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1C45D46C24AED4B400761CB9 /* Main.storyboard */; };
 		1C45D47024AED4B400761CB9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C45D46F24AED4B400761CB9 /* ViewController.swift */; };
 		1C45D47224AED4B500761CB9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1C45D47124AED4B500761CB9 /* Assets.xcassets */; };
-		1C45D47924AED4B500761CB9 /* Craiglist Dark Theme Extension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = 1C45D47824AED4B500761CB9 /* Craiglist Dark Theme Extension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		1C45D47924AED4B500761CB9 /* Craigslist_Dark_Theme Extension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = 1C45D47824AED4B500761CB9 /* Craigslist_Dark_Theme Extension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		1C45D47E24AED4B500761CB9 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1C45D47D24AED4B500761CB9 /* Cocoa.framework */; };
 		1C45D48124AED4B500761CB9 /* SafariExtensionHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C45D48024AED4B500761CB9 /* SafariExtensionHandler.swift */; };
 		1C45D48324AED4B500761CB9 /* SafariExtensionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C45D48224AED4B500761CB9 /* SafariExtensionViewController.swift */; };
@@ -26,7 +26,7 @@
 			containerPortal = 1C45D45D24AED4B400761CB9 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 1C45D47724AED4B500761CB9;
-			remoteInfo = "Craiglist Dark Theme Extension";
+			remoteInfo = "Craigslist_Dark_Theme Extension";
 		};
 /* End PBXContainerItemProxy section */
 
@@ -37,7 +37,7 @@
 			dstPath = "";
 			dstSubfolderSpec = 13;
 			files = (
-				1C45D47924AED4B500761CB9 /* Craiglist Dark Theme Extension.appex in Embed App Extensions */,
+				1C45D47924AED4B500761CB9 /* Craigslist_Dark_Theme Extension.appex in Embed App Extensions */,
 			);
 			name = "Embed App Extensions";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -45,14 +45,14 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		1C45D46524AED4B400761CB9 /* Craiglist Dark Theme.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Craiglist Dark Theme.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1C45D46524AED4B400761CB9 /* Craigslist_Dark_Theme.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Craigslist_Dark_Theme.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1C45D46824AED4B400761CB9 /* Craiglist_Dark_Theme.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Craiglist_Dark_Theme.entitlements; sourceTree = "<group>"; };
 		1C45D46A24AED4B400761CB9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1C45D46D24AED4B400761CB9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		1C45D46F24AED4B400761CB9 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		1C45D47124AED4B500761CB9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1C45D47324AED4B500761CB9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		1C45D47824AED4B500761CB9 /* Craiglist Dark Theme Extension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "Craiglist Dark Theme Extension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1C45D47824AED4B500761CB9 /* Craigslist_Dark_Theme Extension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "Craigslist_Dark_Theme Extension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1C45D47D24AED4B500761CB9 /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
 		1C45D48024AED4B500761CB9 /* SafariExtensionHandler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafariExtensionHandler.swift; sourceTree = "<group>"; };
 		1C45D48224AED4B500761CB9 /* SafariExtensionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafariExtensionViewController.swift; sourceTree = "<group>"; };
@@ -84,8 +84,8 @@
 		1C45D45C24AED4B400761CB9 = {
 			isa = PBXGroup;
 			children = (
-				1C45D46724AED4B400761CB9 /* Craiglist Dark Theme */,
-				1C45D47F24AED4B500761CB9 /* Craiglist Dark Theme Extension */,
+				1C45D46724AED4B400761CB9 /* Craigslist_Dark_Theme */,
+				1C45D47F24AED4B500761CB9 /* Craigslist_Dark_Theme Extension */,
 				1C45D47C24AED4B500761CB9 /* Frameworks */,
 				1C45D46624AED4B400761CB9 /* Products */,
 			);
@@ -94,13 +94,13 @@
 		1C45D46624AED4B400761CB9 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				1C45D46524AED4B400761CB9 /* Craiglist Dark Theme.app */,
-				1C45D47824AED4B500761CB9 /* Craiglist Dark Theme Extension.appex */,
+				1C45D46524AED4B400761CB9 /* Craigslist_Dark_Theme.app */,
+				1C45D47824AED4B500761CB9 /* Craigslist_Dark_Theme Extension.appex */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		1C45D46724AED4B400761CB9 /* Craiglist Dark Theme */ = {
+		1C45D46724AED4B400761CB9 /* Craigslist_Dark_Theme */ = {
 			isa = PBXGroup;
 			children = (
 				1C45D46824AED4B400761CB9 /* Craiglist_Dark_Theme.entitlements */,
@@ -110,7 +110,7 @@
 				1C45D47124AED4B500761CB9 /* Assets.xcassets */,
 				1C45D47324AED4B500761CB9 /* Info.plist */,
 			);
-			path = "Craiglist Dark Theme";
+			path = "Craigslist_Dark_Theme";
 			sourceTree = "<group>";
 		};
 		1C45D47C24AED4B500761CB9 /* Frameworks */ = {
@@ -121,7 +121,7 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		1C45D47F24AED4B500761CB9 /* Craiglist Dark Theme Extension */ = {
+		1C45D47F24AED4B500761CB9 /* Craigslist_Dark_Theme Extension */ = {
 			isa = PBXGroup;
 			children = (
 				1C45D48024AED4B500761CB9 /* SafariExtensionHandler.swift */,
@@ -131,15 +131,15 @@
 				1C45D48C24AED4B500761CB9 /* Craiglist_Dark_Theme_Extension.entitlements */,
 				1C45D49624AED52D00761CB9 /* style.css */,
 			);
-			path = "Craiglist Dark Theme Extension";
+			path = "Craigslist_Dark_Theme Extension";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		1C45D46424AED4B400761CB9 /* Craiglist Dark Theme */ = {
+		1C45D46424AED4B400761CB9 /* Craigslist_Dark_Theme */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 1C45D49324AED4B500761CB9 /* Build configuration list for PBXNativeTarget "Craiglist Dark Theme" */;
+			buildConfigurationList = 1C45D49324AED4B500761CB9 /* Build configuration list for PBXNativeTarget "Craigslist_Dark_Theme" */;
 			buildPhases = (
 				1C45D46124AED4B400761CB9 /* Sources */,
 				1C45D46224AED4B400761CB9 /* Frameworks */,
@@ -151,14 +151,14 @@
 			dependencies = (
 				1C45D47B24AED4B500761CB9 /* PBXTargetDependency */,
 			);
-			name = "Craiglist Dark Theme";
-			productName = "Craiglist Dark Theme";
-			productReference = 1C45D46524AED4B400761CB9 /* Craiglist Dark Theme.app */;
+			name = "Craigslist_Dark_Theme";
+			productName = "Craigslist_Dark_Theme";
+			productReference = 1C45D46524AED4B400761CB9 /* Craigslist_Dark_Theme.app */;
 			productType = "com.apple.product-type.application";
 		};
-		1C45D47724AED4B500761CB9 /* Craiglist Dark Theme Extension */ = {
+		1C45D47724AED4B500761CB9 /* Craigslist_Dark_Theme Extension */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 1C45D48F24AED4B500761CB9 /* Build configuration list for PBXNativeTarget "Craiglist Dark Theme Extension" */;
+			buildConfigurationList = 1C45D48F24AED4B500761CB9 /* Build configuration list for PBXNativeTarget "Craigslist_Dark_Theme Extension" */;
 			buildPhases = (
 				1C45D47424AED4B500761CB9 /* Sources */,
 				1C45D47524AED4B500761CB9 /* Frameworks */,
@@ -168,9 +168,9 @@
 			);
 			dependencies = (
 			);
-			name = "Craiglist Dark Theme Extension";
-			productName = "Craiglist Dark Theme Extension";
-			productReference = 1C45D47824AED4B500761CB9 /* Craiglist Dark Theme Extension.appex */;
+			name = "Craigslist_Dark_Theme Extension";
+			productName = "Craigslist_Dark_Theme Extension";
+			productReference = 1C45D47824AED4B500761CB9 /* Craigslist_Dark_Theme Extension.appex */;
 			productType = "com.apple.product-type.app-extension";
 		};
 /* End PBXNativeTarget section */
@@ -191,7 +191,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 1C45D46024AED4B400761CB9 /* Build configuration list for PBXProject "Craiglist Dark Theme" */;
+			buildConfigurationList = 1C45D46024AED4B400761CB9 /* Build configuration list for PBXProject "Craigslist_Dark_Theme" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -204,8 +204,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				1C45D46424AED4B400761CB9 /* Craiglist Dark Theme */,
-				1C45D47724AED4B500761CB9 /* Craiglist Dark Theme Extension */,
+				1C45D46424AED4B400761CB9 /* Craigslist_Dark_Theme */,
+				1C45D47724AED4B500761CB9 /* Craigslist_Dark_Theme Extension */,
 			);
 		};
 /* End PBXProject section */
@@ -256,7 +256,7 @@
 /* Begin PBXTargetDependency section */
 		1C45D47B24AED4B500761CB9 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 1C45D47724AED4B500761CB9 /* Craiglist Dark Theme Extension */;
+			target = 1C45D47724AED4B500761CB9 /* Craigslist_Dark_Theme Extension */;
 			targetProxy = 1C45D47A24AED4B500761CB9 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -397,9 +397,9 @@
 		1C45D49024AED4B500761CB9 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CODE_SIGN_ENTITLEMENTS = "Craiglist Dark Theme Extension/Craiglist_Dark_Theme_Extension.entitlements";
+				CODE_SIGN_ENTITLEMENTS = "Craigslist_Dark_Theme Extension/Craiglist_Dark_Theme_Extension.entitlements";
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = "Craiglist Dark Theme Extension/Info.plist";
+				INFOPLIST_FILE = "Craigslist_Dark_Theme Extension/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/../Frameworks",
@@ -415,9 +415,9 @@
 		1C45D49124AED4B500761CB9 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CODE_SIGN_ENTITLEMENTS = "Craiglist Dark Theme Extension/Craiglist_Dark_Theme_Extension.entitlements";
+				CODE_SIGN_ENTITLEMENTS = "Craigslist_Dark_Theme Extension/Craiglist_Dark_Theme_Extension.entitlements";
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = "Craiglist Dark Theme Extension/Info.plist";
+				INFOPLIST_FILE = "Craigslist_Dark_Theme Extension/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/../Frameworks",
@@ -435,10 +435,10 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_ENTITLEMENTS = "Craiglist Dark Theme/Craiglist_Dark_Theme.entitlements";
+				CODE_SIGN_ENTITLEMENTS = "Craigslist_Dark_Theme/Craiglist_Dark_Theme.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				INFOPLIST_FILE = "Craiglist Dark Theme/Info.plist";
+				INFOPLIST_FILE = "Craigslist_Dark_Theme/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/../Frameworks",
@@ -454,10 +454,10 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_ENTITLEMENTS = "Craiglist Dark Theme/Craiglist_Dark_Theme.entitlements";
+				CODE_SIGN_ENTITLEMENTS = "Craigslist_Dark_Theme/Craiglist_Dark_Theme.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				INFOPLIST_FILE = "Craiglist Dark Theme/Info.plist";
+				INFOPLIST_FILE = "Craigslist_Dark_Theme/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/../Frameworks",
@@ -471,7 +471,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		1C45D46024AED4B400761CB9 /* Build configuration list for PBXProject "Craiglist Dark Theme" */ = {
+		1C45D46024AED4B400761CB9 /* Build configuration list for PBXProject "Craigslist_Dark_Theme" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1C45D48D24AED4B500761CB9 /* Debug */,
@@ -480,7 +480,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		1C45D48F24AED4B500761CB9 /* Build configuration list for PBXNativeTarget "Craiglist Dark Theme Extension" */ = {
+		1C45D48F24AED4B500761CB9 /* Build configuration list for PBXNativeTarget "Craigslist_Dark_Theme Extension" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1C45D49024AED4B500761CB9 /* Debug */,
@@ -489,7 +489,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		1C45D49324AED4B500761CB9 /* Build configuration list for PBXNativeTarget "Craiglist Dark Theme" */ = {
+		1C45D49324AED4B500761CB9 /* Build configuration list for PBXNativeTarget "Craigslist_Dark_Theme" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1C45D49424AED4B500761CB9 /* Debug */,

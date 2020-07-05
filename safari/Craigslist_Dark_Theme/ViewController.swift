@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  Craiglist Dark Theme
+//  Craigslist_Dark_Theme
 //
 //
 
@@ -13,7 +13,7 @@ class ViewController: NSViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        self.appNameLabel.stringValue = "Craiglist Dark Theme";
+        self.appNameLabel.stringValue = "Craigslist Dark Theme";
     }
     
     @IBAction func openSafariExtensionPreferences(_ sender: AnyObject?) {
