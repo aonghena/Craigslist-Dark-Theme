@@ -1,0 +1,13 @@
+{
+    "name": "Craigslist Dark Theme",
+    "version": "1.0",
+    "description": "Dark theme for Craigslist",
+    "permissions": [],
+    "content_scripts": [
+        {
+          "matches": ["*://*.craigslist.org/*"],
+          "css": ["style.css"]
+        }
+    ],
+    "manifest_version": 2
+  }
